@@ -62,4 +62,5 @@ For any questions or legal concerns:
 
 📧 aurasudan@gmail.com  
 🌍 https://ahmedbashir2050.github.io/alkhattaba-privacy-policy/
-Last Updated: June 2026
+
+**Last Updated: June 2026**
