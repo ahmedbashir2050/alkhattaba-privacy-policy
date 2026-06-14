@@ -71,4 +71,4 @@ Continued use constitutes acceptance of updated terms.
 
 ## Contact
 
-Email: support@alkhattaba.com
+Email: aurasudan@gmail.com 
