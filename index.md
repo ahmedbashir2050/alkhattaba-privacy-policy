@@ -61,22 +61,5 @@ At AlKhattaba, we are committed to:
 For any questions or legal concerns:
 
 📧 aurasudan@gmail.com  
-🌐 https://yourusername.github.io/alkhattaba-policy/
-Explains the rules governing the use of the AlKhattaba platform.
-
-Account Deletion Policy
-
-Explains how users can permanently delete their accounts and personal data.
-
-Community Guidelines
-
-Provides standards for respectful and safe interactions between members.
-
-Direct Links
-
-- "Privacy Policy" (privacy-policy.md)
-- "Terms & Conditions" (terms-and-conditions.md)
-- "Account Deletion Policy" (account-deletion-policy.md)
-- "Community Guidelines" (community-guidelines.md)
-
+🌍 https://ahmedbashir2050.github.io/alkhattaba-privacy-policy/
 Last Updated: June 2026
