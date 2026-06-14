@@ -107,4 +107,4 @@ Continued use of the application after updates constitutes acceptance of the rev
 
 Contact
 
-Email: support@alkhattaba.com
+Email: aurasudan@gmail.com
