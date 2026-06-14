@@ -34,7 +34,7 @@ Defines standards for respectful behavior, safe communication, and proper use of
 - 📘 [Privacy Policy](privacy-policy.md)
 - 📙 [Terms & Conditions](terms-and-conditions.md)
 - 📕 [Account Deletion Policy](account-deletion-policy.md)
-- 📗 [Community Guidelines](community-guidelines.md)
+- 📗 [Community Guidelines](community_guidelines.md)
 
 ---
 
