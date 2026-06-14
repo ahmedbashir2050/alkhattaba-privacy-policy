@@ -16,7 +16,7 @@ Inside the Application:
 
 Or contact:
 
-support@alkhattaba.com
+aurasudan@gmail.com
 
 ## What Happens After Deletion
 
