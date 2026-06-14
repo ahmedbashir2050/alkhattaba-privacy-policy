@@ -1,14 +1,4 @@
-hereAlKhattaba Legal Center
 
-Welcome to the official legal documentation center for AlKhattaba.
-
-Available Documents
-
-Privacy Policy
-
-Describes how user information is collected, used, stored, and protected.
-
-Terms & Conditions
 # 🏛️ AlKhattaba Legal Center
 
 Welcome to the official legal documentation center for **AlKhattaba (الخطابة)** — a secure and trusted platform for serious marriage connections.
